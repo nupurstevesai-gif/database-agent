@@ -1,0 +1,6 @@
+tavily-python
+langchain
+python-dotenv
+psycopg2
+streamlit
+google-generativeai
