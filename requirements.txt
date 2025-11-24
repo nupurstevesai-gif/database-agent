@@ -1,6 +1,6 @@
 tavily-python
 langchain
 python-dotenv
-psycopg2
+psycopg2-binary
 streamlit
 google-generativeai
