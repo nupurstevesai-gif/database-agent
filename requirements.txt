@@ -3,4 +3,4 @@ langchain
 python-dotenv
 psycopg2-binary
 streamlit
-google-generativeai
+google-genai>=0.3.0
